@@ -34,7 +34,7 @@ Metamaniac#3582 en Discord
 Requisitos:
 
 1. Un proyecto con la última versión de VRChat SDK3 instalada
-2. El proyecto también tiene que tener el [UdonSharp] más reciente (https://github.com/MerlinVR/UdonSharp)
+2. El proyecto también tiene que tener el [UdonSharp](https://github.com/MerlinVR/UdonSharp) más reciente 
 3. El proyecto también tiene que tener instalado TextMeshPro.
 
 Recomendado:
@@ -44,14 +44,14 @@ Recomendado:
 
 Pasos de instalación:
 
-1. [Descargue la versión mas reciente del paquete unity] (https://github.com/VRCBilliards/vrcbce/releases/latest).
+1. [Descargue la versión mas reciente del paquete unity](https://github.com/noch3d/vrcbce-spanish/releases/latest).
 2. Importe el paquete a unity.
 3. Dentro de la carpeta VRCBilliardsCE, seleccione cualquiera de los prefabs de mesas, arrástrelo y suéltelo en la escena.
 4. ¡Y listo!
 
 # Integración de UdonChips
 
-¡Con 1.2.1, VRCBCE admite [UdonChips] (https://lura.booth.pm/items/3060394)!
+¡Con 1.2.1, VRCBCE admite [UdonChips](https://lura.booth.pm/items/3060394)!
 
 Para habilitar la compatibilidad con UdonChips, debe hacer dos cosas:
 
@@ -88,7 +88,7 @@ Enviar un DM a un colaborador puede brindarle una respuesta más rápida, pero e
 
 # Realización de solicitudes de pull a este repositorio
 
-El código de este proyecto está escrito para parecerse al código normal de Unity/C#. C# tiene varios estándares (y los equipos tienden a establecer los suyos propios), pero como referencia, consulte la documentación de Unity, los scripts de ejemplo de Unity y las [directrices de mejores prácticas de Microsoft] (https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions).
+El código de este proyecto está escrito para parecerse al código normal de Unity/C#. C# tiene varios estándares (y los equipos tienden a establecer los suyos propios), pero como referencia, consulte la documentación de Unity, los scripts de ejemplo de Unity y las [directrices de mejores prácticas de Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions).
 
   En general:
   - Poner variables en la parte superior del behaviour.
